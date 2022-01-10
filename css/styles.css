@@ -1,0 +1,109 @@
+body{
+  margin: 0;
+  text-align:center;
+}
+h1{
+  margin-top: 25px;
+  font-family:'Sacramento',cursive;
+  color:#03256C;
+  width: 25%;
+  margin: 0 auto 0 auto;
+  font-size: 350%;
+}
+h2{
+  color: #284E78;
+}
+h3{
+  color: #284E78;
+}
+p{
+  font-weight: bold;
+  margin:auto;
+  font-family: 'Architects Daughter',cursive;
+  color: #406882;
+  line-height: 2;
+}
+hr{
+  background-color:none;
+  border-color:grey;
+  border-style:none;
+  border-top-style: dotted;
+  border-width: 15px;
+  height:0px;
+  width:25%;
+}
+.BE{
+  text-decoration: underline;
+}
+a{
+  color:black;
+}
+
+div{
+  background-color: #A2CDCD;
+
+}
+.top_container{
+  position: relative;
+  padding-top: 100px;
+}
+.cloud1{
+  position: absolute;
+  top: 50px;
+  right:300px;
+}
+.cloud2{
+  position: absolute;
+  left: 300px;
+}
+.middle_container{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.profile{
+  width: 70%;
+  margin: 20px auto 20px auto;
+}
+
+.myprofile{
+  width: 18.7%;
+  border-radius: 100%;
+
+}
+
+.skills{
+  width:60%;
+  margin: 25px auto 25px auto;
+}
+
+.skillsimg1{
+  width: 20%;
+  float: left;
+  margin-right: 4%;
+}
+
+.technical{
+  text-align: left;
+  margin-bottom: 15%;
+}
+
+.skillsimg2{
+  width: 20%;
+  float: right;
+  margin-left: 4%;
+}
+
+.non_technical{
+  text-align: left;
+}
+.bottom_container{
+  background-color: #316B83;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.footer-link{
+  color: white;
+}
+.footer-desc{
+  color:#F1ECC3;
+}
