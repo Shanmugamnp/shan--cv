@@ -1,0 +1,170 @@
+body{
+  margin: 0;
+  text-align:center;
+}
+h1{
+  margin-top: 25px;
+  font-family:'Rubik Microbe', sans-serif;
+  color:#313552;
+
+  margin: 0 auto 0 auto;
+  font-size: 100px;
+}
+
+h2{
+  color: #284E78;
+}
+h3{
+  color: #284E78;
+}
+.intro{
+  font-weight: bolder;
+  margin:auto;
+  font-family:'Anek Tamil', sans-serif;
+  font-size: 125%;
+  color:black;
+  line-height: 2;
+}
+.intro:hover{
+  color: white;
+}
+p{
+  font-weight: bold;
+  margin:auto;
+  font-family: 'Architects Daughter',cursive;
+  color: #406882;
+  line-height: 2;
+
+}
+p:hover{
+  color: black;
+}
+.hr1{
+  background-color:none;
+  border-color:grey;
+  border-style:none;
+  border-top-style:dashed;
+  border-width: 15px;
+  height:0px;
+  width:30%;;
+}
+.BE{
+  text-decoration: underline;
+}
+a{
+  color:black;
+}
+
+.top_box{
+  background-color: #316B83;
+  position: relative;
+  padding-top: 100px;
+}
+.topnav {
+  background-color: #313552;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+.cloud1{
+  position: absolute;
+  top: 50px;
+  right:300px;
+}
+.cloud2{
+  position: absolute;
+  left: 300px;
+}
+.middle_box{
+  background-color: #CAF0F8;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.profile{
+  width: 70%;
+  margin: 20px auto 20px auto;
+}
+
+.myprofile{
+  width: 30%;
+  border-radius: 100%;
+
+}
+
+.skills{
+  width:60%;
+  margin: 25px auto 25px auto;
+}
+
+.skillsimg1{
+  width: 30%;
+  float: left;
+  margin-right: 4%;
+}
+
+.technical{
+  text-align: left;
+  margin-bottom: 20%;
+}
+
+.skillsimg2{
+  width: 30%;
+  float: right;
+  margin-left: 4%;
+}
+
+.non_technical{
+  text-align: left;
+  margin-bottom: 15%;
+}
+.bottom_box{
+  background-color: #316B83;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.contact:hover{
+  color: blue;
+}
+.dicecontainer {
+  
+  margin: auto;
+  text-align: center;
+  background-color: #CAF0F8;
+}
+
+
+.imgdice {
+  width: 10%;
+
+}
+.footer-link{
+  color: white;
+  font-size: 30px;
+}
+.footer-link:hover{
+  color: black;
+}
+.footer-desc{
+  color:#F1ECC3;
+}
